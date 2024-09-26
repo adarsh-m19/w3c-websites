@@ -1,0 +1,142 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#lens{
+    padding-top: 1%;
+}
+#sign{
+    margin-left: 500px;
+    padding-top: 1%;
+    
+}
+#frsticon{
+    padding-top: 1%;
+    
+}
+#first{
+    padding-left: 120px;
+}
+.second{
+    margin-left: 120px;
+    padding-top: 2%;
+}
+.card{
+    float: left;
+}
+#img1{
+    padding-top: 50px;
+}
+#img2{
+    padding-top: 50px;
+}
+#img3{
+    padding-top: 50px;
+}
+#img4{
+    padding-top: 50px;
+
+}
+#but{
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+    border-radius: 20px;
+   
+}
+
+
+
+#third{
+    margin-left: 120px;
+    padding-top: 4%;
+}
+#fourth{
+    padding-left: 8%;
+}
+#fifth{
+    margin-left: 120px;
+    padding-top: 2%;
+}
+#sixth{
+    padding-left: 8%;
+}
+#seven{
+    margin-left: 120px;
+    padding-top: 2%;
+}
+#eight{
+    padding-left: 12%;
+}
+
+
+
+@media(max-width:480px){
+
+    
+
+
+    #frsticon{
+        padding: 0;
+        margin: 0;
+
+        
+        
+    }
+    #first{
+        
+        margin: 0;
+        padding: 0;
+    }
+    .second{
+        margin: 0;
+    }
+    .card{
+        float: left;
+    }
+    #img1{
+        padding-top: 50px;
+    }
+    #img2{
+        padding-top: 50px;
+    }
+    #img3{
+        padding-top: 50px;
+    }
+    #img4{
+        padding-top: 50px;
+    }
+
+    #third{
+        margin: 0;
+       padding: 0;
+       padding-top: 4%;
+    }
+    #fourth{
+        margin: 0;
+        padding: 0;
+        padding-top: 4%;
+    }
+    #fifth{
+        margin: 0;
+        padding: 0;
+        padding-top: 4%;
+    }
+    #sixth{
+        padding: 0;
+        margin: 0;
+        padding-top: 4%;
+    }
+    #seven{
+        margin: 0;
+        padding: 0;
+        margin-left: 3%;
+        padding-top: 4%;
+    }
+    #eight{
+        margin: 0;
+        padding: 0;
+    }
+    
+}
